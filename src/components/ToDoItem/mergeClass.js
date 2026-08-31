@@ -4,5 +4,5 @@ export default function mergeClass(isItemCompleted = false) {
     styles.push("completed");
   }
 
-  return styles.join(" ")
+  return styles.join(" ");
 }
