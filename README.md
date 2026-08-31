@@ -1,5 +1,3 @@
-![](thumbnail.png)
-
 # Testando um App de Checklist de Estudos
 
 Um projeto para quem já conhece as tecnologias mais importantes da web (HTML, CSS, JS) e o básico de ReactJS, mas deseja alcançar um novo nível de qualidade em suas aplicações, tornando-as confiáveis, robustas e manuteníveis mesmo com o passar do tempo. Ao longo do curso, criamos testes unitários, de componentes e E2E para uma aplicação React já desenvolvida e entendemos, na prática e com embasamento teórico, como os testes melhoram a qualidade de vida de todo o time.
@@ -47,12 +45,3 @@ npm start
 
 4. Acesse no navegador: [http://localhost:5173](http://localhost:5173) (Vite).
 
-## 📚 Mais informações do curso
-
-Gostou da ideia e quer aprender com as aula? O passo a passo completo, desde a instalação até a criação de todos os testes, faz parte do curso da carreira React da Alura, com foco em experiência real de desenvolvimento, boas práticas e conceitos importantes para os devs.
-
-Se quiser experimentar, explore o código e aumente a cobertura de testes do projeto utilizando tudo que aprendeu!
-
----
-
-Aguardo você no próximo curso ou no [Manual do Front](https://www.youtube.com/@manualdofront), até a próxima 🚀
