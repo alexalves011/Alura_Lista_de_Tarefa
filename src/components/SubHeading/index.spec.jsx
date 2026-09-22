@@ -26,4 +26,26 @@ describe("SubHeading", () => {
       expect(queryByText("Para Estudar")).toBeNull();
     });
   });
+
+
+  describe("findBy", () => {
+    test("deveria renderizar a descrição apos 500ms",   async () => {
+      const { findByText } = render(<SubHeading>Para Estudar</SubHeading>);
+
+
+      const description = await findByText("texto descrição exemplo")
+
+
+      expect(findByText("Para Estudar")).toBeInTheDocument();
+    });
+
+  
+  });
+
+
+
+
+
+
+
 });
